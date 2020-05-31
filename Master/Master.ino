@@ -52,8 +52,13 @@ void setup() {
 
   
   // Initialize ASK Object (RF receiver and transmitter)
-  rf_driver.init();
 
+  if (!rf_driver.init()) {
+    Serial.println("init failed");
+  }
+  else {
+    Serial.println("rf init successfull");
+  }
   // Initialize serial commnunication for debugging 
   Serial.begin(9600);
 

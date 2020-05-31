@@ -13,7 +13,7 @@
 #endif
 
 // CHANGE THIS ID SO IT'S UNIQUE FOR EACH SLAVES OF THE COMMUNICATION NETWORK
-String slaveID = "WORKSHOP"; 
+String slaveID = "Workshop"; 
 
 // Include DHT Libraries from Adafruit
 // Dependant upon Adafruit_Sensors Library
