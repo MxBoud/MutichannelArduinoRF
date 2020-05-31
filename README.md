@@ -1,3 +1,3 @@
 # MutichannelArduinoRF
 
-![Picture](https://github.com/MxBoud/MutichannelArduinoRF/blob/master/CommnunicationProtocol.png)
+![Picture](https://github.com/MxBoud/MutichannelArduinoRF/blob/master/CommunicationProtocol.png)
